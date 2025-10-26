@@ -1,5 +1,14 @@
 # SDLC Assignment on Testing, Linux and Servers
 
+### Task 1: System Monitoring Setup
+
+1. Install htop on machine.
+<img width="873" height="140" alt="image" src="https://github.com/user-attachments/assets/eca3ec2b-da8a-40f0-aff8-9a672c535028" />
+
+2. Create a script to automate monitoring of performance of syatem using htop.
+<img width="809" height="548" alt="image" src="https://github.com/user-attachments/assets/98d6273b-1809-49e4-bf50-ce82090bb650" />
+
+
 ### Task 2 : User Management and Access Control
 
 1. We are creating two new users named Sarah and Mike with their own workspace.
