@@ -8,6 +8,16 @@
 2. Create a script to automate monitoring of performance of syatem using htop.
 <img width="809" height="548" alt="image" src="https://github.com/user-attachments/assets/98d6273b-1809-49e4-bf50-ce82090bb650" />
 
+3. System Monitoring script loaded into Github "https://github.com/predatordev1/my-hero-git/tree/main/Assignment_SDLC_testing_Linux-server"
+<img width="1880" height="560" alt="image" src="https://github.com/user-attachments/assets/74d69fa1-b09a-459f-82e9-235a754a5447" />
+
+4. Testing of script.
+<img width="1468" height="840" alt="image" src="https://github.com/user-attachments/assets/24f1de0b-6f7d-4b2a-b0d5-bb9cc8125b6c" />
+<img width="960" height="518" alt="image" src="https://github.com/user-attachments/assets/5931d263-92b0-45c5-9c51-27c74e769585" />
+
+5. Scheduling System Monitoring for every hour in cronetab.
+<img width="604" height="283" alt="image" src="https://github.com/user-attachments/assets/1451ed41-2788-488b-b34b-2fae246e3672" />
+
 
 ### Task 2 : User Management and Access Control
 
