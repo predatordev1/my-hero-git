@@ -37,6 +37,10 @@
 <img width="1888" height="494" alt="image" src="https://github.com/user-attachments/assets/2b4303ba-2f84-4563-b52f-490bf11379ab" />
 
 4. Scheduling Backup in cronetab for every Tuesday 12:00 AM.
+
+5. Testing of backup scripts
+<img width="853" height="114" alt="image" src="https://github.com/user-attachments/assets/cd2d73d1-cb4c-4044-a811-e86c80341d63" />
+
 <img width="529" height="218" alt="image" src="https://github.com/user-attachments/assets/eaee10cb-d50f-4b6f-8172-9f8f3eb20f24" />
 
 
