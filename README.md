@@ -23,5 +23,19 @@
 6. Password complexity added using nano /etc/pam.d/system-auth.
 <img width="1906" height="471" alt="image" src="https://github.com/user-attachments/assets/b56e1b3e-19bf-4be7-ae50-5f52d99b7165" />
 
-   
+### Task 3 : Backup Configuration for Web Servers
+
+1. Createing a backup script for Sarah's Apache Server backup as named Sarah_apache_backup.sh and storing backup in /backups
+<img width="1065" height="190" alt="image" src="https://github.com/user-attachments/assets/07377ad1-c45c-484a-aff1-0be4d4723396" />
+<img width="989" height="505" alt="image" src="https://github.com/user-attachments/assets/3f141c7f-ff70-451c-85f6-aa8f5e07184d" />
+
+2. Creating a backup script for Mike's Nginx Server backup as named Mike_nginx_backup.sh and storing backup in /backups
+<img width="969" height="486" alt="image" src="https://github.com/user-attachments/assets/b90ce48c-3d82-4580-94ea-0f6742c93a5e" />
+
+3. Backup uploaded into Github repo "https://github.com/predatordev1/my-hero-git/tree/main/Assignment_SDLC_testing_Linux-server"
+<img width="597" height="65" alt="image" src="https://github.com/user-attachments/assets/8a88ec29-6692-4e75-a082-4eccee6e55b7" />
+<img width="1888" height="494" alt="image" src="https://github.com/user-attachments/assets/2b4303ba-2f84-4563-b52f-490bf11379ab" />
+
+
+
 
